@@ -69,5 +69,4 @@ B.Tech Student – Digital Marketing Open Elective
 ---
 
 ## 📢 Live Website
-🔗 Visit the site here: [https://yourusername.github.io](https://yourusername.github.io)  
-*(Replace “yourusername” with your actual GitHub username.)*
+🔗 Visit the site here: [https://yourusername.github.io](https://V54-code.github.io)  
